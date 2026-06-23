@@ -16,5 +16,6 @@ Now i sucessfully pushed thw push2 and adding the pull2 with this message
 
 Alright last push now
 
+alright last pull now
 
 
