@@ -8,3 +8,6 @@ So i managed to push this into github repo and now i am making chqanges in githu
 
 so now here i pulled this using git pull and now i am going to push again this is push no 2
 
+
+Now i sucessfully pushed thw push2 and adding the pull2 with this message
+
